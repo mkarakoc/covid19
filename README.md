@@ -9,6 +9,7 @@
 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkarakoc/covid19)
 | |
 
-![](https://www.kaggle.com/static/images/site-logo.png)
+<img width=100 src="https://www.kaggle.com/static/images/site-logo.png"/>
+
 https://www.kaggle.com/karakoc/covid19-total-vs-active
 
